@@ -1,4 +1,5 @@
 ## captcha-recognition
+Processed CAPTCHA images with Python and used both EasyOCR and PaddleOCR for combined recognition after appropriate preprocessing
 
 ### 使用語言及技術
 Python、OpenCV、paddleOCR、easyOCR、電腦視覺
